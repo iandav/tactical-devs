@@ -6,9 +6,9 @@ icon: fa-book
 order: 3
 ---
 
-If you are interested in joining to the team, we guide you to the contribution process we follow to keep things simple and well organized.
-
 <img src="./assets/images/contribution_pic.gif" alt="A pixel art man sitting in a porch with a computer" />
+
+If you are interested in joining to the team, we guide you to the contribution process we follow to keep things simple and well organized.
 
 ## Discord Server
 Join to the official **[Discord server](https://discord.gg/FtSPkuyhGB)** where we share ideas, learning resources and we have fun!
