@@ -24,15 +24,20 @@ Share improvements, adding new functionality requirements, report bugs and so on
 When you start to complete a new task follow the next steps:
 
 1. Clone the project repository to your local computer:
+
 **`git clone <GIT REPOSITORY URL>`**
 2. Before adding code, always check whether you are working on an updated release of the project:
+
 **`git pull`**
 3. Create a new branch with a name related to the task you are working on:
+
 **`git checkout -b <BRANCH NAME>`**
 4. Code time!
 5. Once you finish, push the changes you made to the project repository:
+
 **`git add .`** + **`git commit -m <COMMENT ABOUT CHANGES>`** + **`git push`**
 6. Return to the main branch of the project:
+
 **`git checkout main`**
 
 ## Project Requirements Document
