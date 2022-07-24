@@ -332,6 +332,7 @@
 			position: relative;
 			-webkit-appearance: none;
 			display: block;
+			margin: 0.5em 0;
 			border: 0;
 			outline: 0;
 			background: #fff;
@@ -344,7 +345,7 @@
 			@include vendor('transition', 'all 0.35s ease-in-out');
 
 			&:focus {
-				box-shadow: 0 0 2px 1px #8ebebc;
+				box-shadow: 0 0 2px 1px #5368C8;
 				background: #fff;
 			}
 		}
@@ -440,7 +441,7 @@
 		@include vendor('transition', 'background-color 0.35s ease-in-out');
 
 		&:hover {
-			background-color: #27427A;
+			background-color: #6788DE;
 		}
 
 		&:active {
