@@ -2,7 +2,7 @@
 title: Contribute
 subtitle:
 layout: "page"
-icon: fa-book
+icon: fa-github
 order: 3
 ---
 
