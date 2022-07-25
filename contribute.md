@@ -19,7 +19,7 @@ project repository as soon as possible and later you'll receive an invitation e-
 Make sure you already have an account on **[GitHub](https://github.com)** and a basic knowledge of **[Git](https://git-scm.com)**.
 To contribute, we use **[GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues)**. If you go to the project repository,
 you'll gind a button called "Issues", there you'll find a list of tasks and you can start completing them at any time or creating new tasks to:
-Share improvements, adding new functionality requirements, report bugs and so on...
+share improvements, add new functionality requirements, report bugs and so on...
 
 When you start to complete a new task follow the next steps:
 
